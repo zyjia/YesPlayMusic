@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/api/:match*",
-      "destination": "https://netease.690112.xyz/:match*"
+      "source": "/api/:path*",
+      "destination": "https://netease。690112.xyz/:path*"
     }
   ]
 }
